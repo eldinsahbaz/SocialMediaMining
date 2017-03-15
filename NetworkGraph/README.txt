@@ -1,5 +1,3 @@
-Assignment #2 (10 points): Due March 3
-
 1. Select a ‘starting point,’ i.e. a user on Twitter, which could be
 yourself or somebody else.
 
